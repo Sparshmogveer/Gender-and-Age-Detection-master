@@ -1,1 +1,8 @@
-theme: jekyll-theme-tactile
+name: Sparsh
+project:
+  title: Gender and Age Detection
+  version: 1.0
+languages:
+  - Python
+  - YAML
+  - OpenCV
